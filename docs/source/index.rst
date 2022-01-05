@@ -19,5 +19,5 @@ Contents
 .. toctree::
 
    usage
-   api
+   confluence
 Lumache has its documentation hosted on Read the Docs Ahmad.
